@@ -105,7 +105,7 @@ img{
     padding-left: 40%;
 }
 
-@media (max-width: 1920px) {
+@media (max-width: 1200px) {
     .title {
         padding-top: 20px;
         padding-left: 10px;
