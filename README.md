@@ -1,4 +1,4 @@
-# Class_schedule
-![image](https://github.com/user-attachments/assets/dcb19087-b797-4dad-9d82-8ba8a68f888e)
+# Picture
+<img width="1504" height="874" alt="image" src="https://github.com/user-attachments/assets/bb32c1cb-3bca-4f37-9a76-007a20bdbc91" />
 
-Link - [Click Here](https://class-schedule-bsit2b.vercel.app/)
+Link - [Click Here](https://class-schedule-bsit3b.vercel.app/)
