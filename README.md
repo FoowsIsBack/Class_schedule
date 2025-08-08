@@ -1,4 +1,4 @@
 # Picture
-<img width="1504" height="882" alt="image" src="https://github.com/user-attachments/assets/5810625f-328e-42a5-b183-d20fddf5909f" />
+<img width="1442" height="880" alt="image" src="https://github.com/user-attachments/assets/a677ac21-f426-4c93-bbe8-96d20fc695de" />
 
 Link - [Click Here](https://class-schedule-bsit3b.vercel.app/)
